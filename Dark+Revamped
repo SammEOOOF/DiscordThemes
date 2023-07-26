@@ -762,7 +762,7 @@ padding-right: 8px;
 .avatarUploaderIndicator-2G-aIZ {
   display: none;
 }
-.item-3mHhwr[aria-label="Add Friend"] {
+.item-3mHhwr[aria-label="Lägg till Langare"] {
   color: var(--darkplus-bg) !important;
   background-color: var(--darkplus-sec) !important;
 }
@@ -936,7 +936,7 @@ padding-right: 8px;
 .optional-2lmRBw {
   color: var(--darkplus-links);
 }
-button[aria-label="Send a gift"] {
+button[aria-label="Skicka knark"] {
   display: none;
 }
 
